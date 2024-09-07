@@ -1,0 +1,13 @@
+{
+  "name": "TorrentGames",
+  "downloads": [
+    {
+      "title": "Spooky Station",
+      "uris": [
+        "magnet:?xt=urn:btih:e84de26aa3b65606e45bc9f67b9e0111587ad1eb&#038;dn=Spooky.Station-DARKSiDERS&#038;tr=udp://9.rarbg.me:2720/announce&#038;tr=udp://9.rarbg.to:2800/announce&#038;tr=udp://tracker.opentrackr.org:1337/announce&#038;tr=udp://tracker.leechers-paradise.org:6969/announce&#038;tr=udp://tracker.internetwarriors.net:1337/announce"
+      ],
+      "fileSize": "611.63MB",
+      "uploadDate": "2024-09-06"
+    }
+  ]
+}
