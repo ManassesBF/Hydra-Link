@@ -8,6 +8,14 @@
       ],
       "fileSize": "611.63MB",
       "uploadDate": "2024-09-06"
-    }
+    },
+    {
+        "title": "Shapez 2",
+        "uris": [
+          "magnet:?xt=urn:btih:1972bd1157bfc5e54f7f22521f5d8a5ce4ec9061&#038;dn=Shapez.2.v0.0.8.RC2.rar&#038;tr=udp://tracker.torrent.eu.org:451/announce&#038;tr=udp://exodus.desync.com:6969/announce&#038;tr=udp://tracker.moeking.me:6969/announce&#038;tr=udp://tracker.opentrackr.org:1337/announce&#038;tr=udp://open.stealth.si:80/announce&#038;tr=udp://tracker.theoks.net:6969/announce&#038;tr=udp://movies.zsw.ca:6969/announce&#038;tr=udp://tracker.tiny-vps.com:6969/announce&#038;tr=udp://tracker-udp.gbitt.info:80/announce&#038;tr=http://tracker.gbitt.info:80/announce&#038;tr=https://tracker.gbitt.info:443/announce&#038;tr=http://tracker.ccp.ovh:6969/announce&#038;tr=udp://tracker.ccp.ovh:6969/announce&#038;tr=udp://tracker.dler.com:6969/announce&#038;tr=http://tracker.bt4g.com:2095/announce"
+        ],
+        "fileSize": "830.77MB",
+        "uploadDate": "2024-09-06"
+      }
   ]
 }
